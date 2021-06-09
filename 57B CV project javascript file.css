@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    
+}
+h1{
+    font-family: cursive;
+}
+.container{
+    max-width: 1000px;
+    background-color: floralwhite;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+.profile-picture{
+    width: 130px;
+    height: 120px;
+    border: 5px solid greenyellow;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 20px;
+}
+.header1{
+    background-color: floralwhite;
+}
+.contact{
+   float: right; 
+   padding: 30px;
+}
+a{
+    text-decoration: none;
+    opacity: 0.5;
+    color: black;
+    font-size: 1.5rem;
+}
+a:hover{
+    opacity: 1;
+}
+.div-clear{
+    clear: both;
+}
+.left-div1{
+    float: left;
+    width: 30%;
+}
+.right-div1{
+    float: right;
+    width: 65%;
+}
+hr{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.left-div2{
+    float: left;
+    width: 30%;
+}
+.right-div2{
+    float: right;
+    width: 65%;
+}
+.left-div3{
+    width: 30%;
+    float: left;
+}
+.right-div3{
+    width: 65%;
+    float: right;
+}
+.left-div4{
+    width: 30%;
+    float: left;
+}
+.right-div4{
+    width: 65%;
+    float: right;
+}
+.right-div4A{
+    width:45%;
+    float:left;
+}
+.right-div4B{
+    width: 45%;
+    float: right;
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
+footer a{
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
